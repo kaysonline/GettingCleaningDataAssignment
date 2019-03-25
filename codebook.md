@@ -14,146 +14,146 @@ These signals were used to estimate variables of the feature vector for each pat
 ## Features in tidy_data_set
 
 * activityname
-**WALKING
-**WALKING_UPSTAIRS
-**WALKING_DOWNSTAIRS
-**SITTING
-**STANDING
-**LAYING
+<br/><br/>**WALKING
+<br/><br/>**WALKING_UPSTAIRS
+<br/><br/>**WALKING_DOWNSTAIRS
+<br/><br/>**SITTING
+<br/><br/>**STANDING
+<br/><br/>**LAYING
 * subjectid
-**Unique Id assigned to the subject who performed the experiment 
+<br/>**Unique Id assigned to the subject who performed the experiment 
 * Avg-tBodyAcc-mean()-X
-**Mean of time domain body acceleration signals in X direction
+<br/>**Mean of time domain body acceleration signals in X direction
 * Avg-tBodyAcc-mean()-Y
-**Mean of time domain body acceleration signals in Y direction
+<br/>**Mean of time domain body acceleration signals in Y direction
 * Avg-tBodyAcc-mean()-Z
-**Mean of time domain body acceleration signals in Z direction
+<br/>**Mean of time domain body acceleration signals in Z direction
 * Avg-tBodyAcc-std()-X
-**Standard deviation of time domain body acceleration signals in X direction
+<br/>**Standard deviation of time domain body acceleration signals in X direction
 * Avg-tBodyAcc-std()-Y
-**Standard deviation of time domain body acceleration signals in Y direction
+<br/>**Standard deviation of time domain body acceleration signals in Y direction
 * Avg-tBodyAcc-std()-Z
-**Standard deviation of time domain body acceleration signals in Z direction
+<br/>**Standard deviation of time domain body acceleration signals in Z direction
 * Avg-tGravityAcc-mean()-X
-**Mean of time domain gravity accelaration signals in X direction
+<br/>**Mean of time domain gravity accelaration signals in X direction
 * Avg-tGravityAcc-mean()-Y
-**Mean of time domain gravity accelaration signals in Y direction
+<br/>**Mean of time domain gravity accelaration signals in Y direction
 * Avg-tGravityAcc-mean()-Z
-**Mean of time domain gravity accelaration signals in Z direction
+<br/>**Mean of time domain gravity accelaration signals in Z direction
 * Avg-tGravityAcc-std()-X
-**Standard Deviation of time domain gravity accelaration signals in X direction
+<br/>**Standard Deviation of time domain gravity accelaration signals in X direction
 * Avg-tGravityAcc-std()-Y
-**Standard deviation of time domain gravity accelaration signals in Y direction
+<br/>**Standard deviation of time domain gravity accelaration signals in Y direction
 * Avg-tGravityAcc-std()-Z
-**Standard deviation of time domain gravity accelaration signals in Z direction
+<br/>**Standard deviation of time domain gravity accelaration signals in Z direction
 * Avg-tBodyAccJerk-mean()-X
-**Mean of time domain body accelaration jerk signals in X direction
+<br/>**Mean of time domain body accelaration jerk signals in X direction
 * Avg-tBodyAccJerk-mean()-Y
-**Mean of time domain body accelaration jerk signals in Y direction
+<br/>**Mean of time domain body accelaration jerk signals in Y direction
 * Avg-tBodyAccJerk-mean()-Z
-**Mean of time domain body accelaration jerk signals in Z direction
+<br/>**Mean of time domain body accelaration jerk signals in Z direction
 * Avg-tBodyAccJerk-std()-X
-**Standard deviation of time domain body accelaration jerk signals in X direction
+<br/>**Standard deviation of time domain body accelaration jerk signals in X direction
 * Avg-tBodyAccJerk-std()-Y
-**Standard deviation of time domain body accelaration jerk signals in Y direction
+<br/>**Standard deviation of time domain body accelaration jerk signals in Y direction
 * Avg-tBodyAccJerk-std()-Z
-**Standard deviation of time domain body accelaration jerk signals in Z direction
+<br/>**Standard deviation of time domain body accelaration jerk signals in Z direction
 * Avg-tBodyGyro-mean()-X
-**Mean of time domain angular velocity signals in X direction
+<br/>**Mean of time domain angular velocity signals in X direction
 * Avg-tBodyGyro-mean()-Y
-**Mean of time domain angular velocity signals in Y direction
+<br/>**Mean of time domain angular velocity signals in Y direction
 * Avg-tBodyGyro-mean()-Z
-**Mean of time domain angular velocity signals in Z direction
+<br/>**Mean of time domain angular velocity signals in Z direction
 * Avg-tBodyGyro-std()-X
-**Standard deviation of time domain angular velocity signals in X direction
+<br/>**Standard deviation of time domain angular velocity signals in X direction
 * Avg-tBodyGyro-std()-Y
-**Standard deviation of time domain angular velocity signals in Y direction
+<br/>**Standard deviation of time domain angular velocity signals in Y direction
 * Avg-tBodyGyro-std()-Z
-**Standard deviation of time domain angular velocity signals in Z direction
+<br/>**Standard deviation of time domain angular velocity signals in Z direction
 * Avg-tBodyGyroJerk-mean()-X
-**Mean of time domain angular velocity jerk signals in X direction
+<br/>**Mean of time domain angular velocity jerk signals in X direction
 * Avg-tBodyGyroJerk-mean()-Y
-**Mean of time domain angular velocity jerk signals in Y direction
+<br/>**Mean of time domain angular velocity jerk signals in Y direction
 * Avg-tBodyGyroJerk-mean()-Z
-**Mean of time domain angular velocity jerk signals in Z direction
+<br/>**Mean of time domain angular velocity jerk signals in Z direction
 * Avg-tBodyGyroJerk-std()-X
-**Standard deviation of time domain angular velocity jerk signals in X direction
+<br/>**Standard deviation of time domain angular velocity jerk signals in X direction
 * Avg-tBodyGyroJerk-std()-Y
-**Standard deviation of time domain angular velocity jerk signals in Y direction
+<br/>**Standard deviation of time domain angular velocity jerk signals in Y direction
 * Avg-tBodyGyroJerk-std()-Z
-**Standard deviation of time domain angular velocity jerk signals in Z direction
+<br/>**Standard deviation of time domain angular velocity jerk signals in Z direction
 * Avg-tBodyAccMag-mean()
-**Mean of magnitude of time domain acceleration signals
+<br/>**Mean of magnitude of time domain acceleration signals
 * Avg-tBodyAccMag-std()
-**Standard deviation of magnitude of time domain acceleration signals
+<br/>**Standard deviation of magnitude of time domain acceleration signals
 * Avg-tGravityAccMag-mean()
-**Mean of magnitude of time domain gravity acceleration signals
+<br/>**Mean of magnitude of time domain gravity acceleration signals
 * Avg-tGravityAccMag-std()
-**standard deviation of magnitude of time domain gravity acceleration signals
+<br/>**standard deviation of magnitude of time domain gravity acceleration signals
 * Avg-tBodyAccJerkMag-mean()
-**Mean of magnitude of time domain body acceleration jerk signals
+<br/>**Mean of magnitude of time domain body acceleration jerk signals
 * Avg-tBodyAccJerkMag-std()  
-**Standard deviation of magnitude of time domain body acceleration jerk signals
+<br/>**Standard deviation of magnitude of time domain body acceleration jerk signals
 * Avg-tBodyGyroMag-mean()
-**Mean of magnitude of time domain body angular velocity signals
+<br/>**Mean of magnitude of time domain body angular velocity signals
 * Avg-tBodyGyroMag-std()
-**Standard deviation of magnitude of time domain body angular velocity signals
+<br/>**Standard deviation of magnitude of time domain body angular velocity signals
 * Avg-tBodyGyroJerkMag-mean()
-**Mean of magnitude of time domain body angular velocity jerk signals
+<br/>**Mean of magnitude of time domain body angular velocity jerk signals
 * Avg-tBodyGyroJerkMag-std()
-**Standard deviation of magnitude of time domain body angular velocity jerk signals
+<br/>**Standard deviation of magnitude of time domain body angular velocity jerk signals
 * Avg-fBodyAcc-mean()-X
-**Mean of frequency domain body acceleration signals in X direction
+<br/>**Mean of frequency domain body acceleration signals in X direction
 * Avg-fBodyAcc-mean()-Y
-**Mean of frequency domain body acceleration signals in Y direction
+<br/>**Mean of frequency domain body acceleration signals in Y direction
 * Avg-fBodyAcc-mean()-Z
-**Mean of frequency domain body acceleration signals in Z direction
+<br/>**Mean of frequency domain body acceleration signals in Z direction
 * Avg-fBodyAcc-std()-X
-**Standard deviation of frequency domain body acceleration signals in X direction
+<br/>**Standard deviation of frequency domain body acceleration signals in X direction
 * Avg-fBodyAcc-std()-Y
-**Standard deviation of frequency domain body acceleration signals in Y direction
+<br/>**Standard deviation of frequency domain body acceleration signals in Y direction
 * Avg-fBodyAcc-std()-Z
-**Standard deviation of frequency domain body acceleration signals in Z direction
+<br/>**Standard deviation of frequency domain body acceleration signals in Z direction
 * Avg-fBodyAccJerk-mean()-X
-**Mean of frequency domain body acceleration jerk signals in X direction
+<br/>**Mean of frequency domain body acceleration jerk signals in X direction
 * Avg-fBodyAccJerk-mean()-Y
-**Mean of frequency domain body acceleration jerk signals in Y direction
+<br/>**Mean of frequency domain body acceleration jerk signals in Y direction
 * Avg-fBodyAccJerk-mean()-Z
-**Mean of frequency domain body acceleration jerk signals in Z direction
+<br/>**Mean of frequency domain body acceleration jerk signals in Z direction
 * Avg-fBodyAccJerk-std()-X
-**Standard deviation of frequency domain body acceleration jerk signals in X direction
+<br/>**Standard deviation of frequency domain body acceleration jerk signals in X direction
 * Avg-fBodyAccJerk-std()-Y
-**Standard deviation of frequency domain body acceleration jerk signals in Y direction
+<br/>**Standard deviation of frequency domain body acceleration jerk signals in Y direction
 * Avg-fBodyAccJerk-std()-Z
-**Standard deviation of frequency domain body acceleration jerk signals in Z direction
+<br/>**Standard deviation of frequency domain body acceleration jerk signals in Z direction
 * Avg-fBodyGyro-mean()-X
-**Mean of frequency domain body angular velocity signals in X direction
+<br/>**Mean of frequency domain body angular velocity signals in X direction
 * Avg-fBodyGyro-mean()-Y
-**Mean of frequency domain body angular velocity signals in Y direction
+<br/>**Mean of frequency domain body angular velocity signals in Y direction
 * Avg-fBodyGyro-mean()-Z
-**Mean of frequency domain body angular velocity signals in Z direction
+<br/>**Mean of frequency domain body angular velocity signals in Z direction
 * Avg-fBodyGyro-std()-X
-**Standard deviation of frequency domain body angular velocity signals in X direction
+<br/>**Standard deviation of frequency domain body angular velocity signals in X direction
 * Avg-fBodyGyro-std()-Y
-**Standard deviation of frequency domain body angular velocity signals in Y direction
+<br/>**Standard deviation of frequency domain body angular velocity signals in Y direction
 * Avg-fBodyGyro-std()-Z
-**Standard deviation of frequency domain body angular velocity signals in Z direction
+<br/>**Standard deviation of frequency domain body angular velocity signals in Z direction
 * Avg-fBodyAccMag-mean()
-**Mean of magnitude of frequency domain body acceleration signals
+<br/>**Mean of magnitude of frequency domain body acceleration signals
 * Avg-fBodyAccMag-std()
-**Standard deviation of magnitude of frequency domain body acceleration signals
+<br/>**Standard deviation of magnitude of frequency domain body acceleration signals
 * Avg-fBodyAccJerkMag-mean()
-**Mean of magnitude of frequency domain body acceleration jerk signals
+<br/>**Mean of magnitude of frequency domain body acceleration jerk signals
 * Avg-fBodyAccJerkMag-std()
-**Standard deviation of magnitude of frequency domain body acceleration jerk signals
+<br/>**Standard deviation of magnitude of frequency domain body acceleration jerk signals
 * Avg-fBodyGyroMag-mean()
-**Mean of magnitude of frequency domain body angular velocity signals
+<br/>**Mean of magnitude of frequency domain body angular velocity signals
 * Avg-fBodyGyroMag-std()
-**Standard deviation of magnitude of frequency domain body angular velocity signals
+<br/>**Standard deviation of magnitude of frequency domain body angular velocity signals
 * Avg-fBodyGyroJerkMag-mean()
-**Mean of magnitude of frequency domain body angular velocity jerk signals
+<br/>**Mean of magnitude of frequency domain body angular velocity jerk signals
 * Avg-fBodyGyroJerkMag-std()
-**Standard deviation of magnitude of frequency domain body angular velocity jerk signals
+<br/>**Standard deviation of magnitude of frequency domain body angular velocity jerk signals
 
 ## Transformations performed to generate tidy_data_set
 1. Download the zip file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
